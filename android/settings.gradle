@@ -1,0 +1,3 @@
+rootProject.name = 'RandList'
+
+include ':app'
